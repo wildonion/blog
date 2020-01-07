@@ -1,3 +1,3 @@
-> run ```JEKYLL_ENV=production bundle exec jekyll build``` to build your static pages 
+##### run _```JEKYLL_ENV=production bundle exec jekyll build```_ to build your static pages 
 
-> then upload `_site` folder on your vps.
+##### then upload _`_site`_ folder on your vps.
