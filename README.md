@@ -1,4 +1,4 @@
-##### Test on local server : _```jekyll serve```_
+##### Test on local server : _```bundle exec jekyll serve```_
 
 ##### Build static pages :  _```JEKYLL_ENV=production bundle exec jekyll build```_
 
