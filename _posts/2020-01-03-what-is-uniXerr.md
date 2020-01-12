@@ -2,7 +2,7 @@
 layout: post
 title:  "What is uniXerr!"
 date:   2020-01-02 18:15:00 +0300
-image:  '/assets/img/unixerr.png'
+image:  '/assets/img/unixerr__.png'
 tags:   [education, digital-companion, unixerr]
 ---
 A University Without Error! Sounds good, huh?
