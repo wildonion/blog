@@ -37,6 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-seo-tag
+  - jekyll-admin
   - jemoji
 
 # Pages Path
