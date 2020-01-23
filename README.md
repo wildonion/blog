@@ -1,5 +1,7 @@
-##### Test on local server : _```bundle exec jekyll serve```_
+##### Install prerequisites : _```sudo bundle install```_
 
-##### Build static pages :  _```JEKYLL_ENV=production bundle exec jekyll build```_
+##### Test on local server : _```sudo bundle exec jekyll serve```_
 
-##### Upload _`_site`_ folder on your vps.
+##### Build static pages :  _```sudo JEKYLL_ENV=production bundle exec jekyll build --trace```_
+
+##### Move _`_site`_ folder to /var/www/
