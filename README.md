@@ -5,6 +5,3 @@
 ##### Build static pages :  _```sudo JEKYLL_ENV=production bundle exec jekyll build --trace```_
 
 ##### Move _`_site`_ folder to /var/www/
-
-
-> To setup a sugar CMS See [jekyll-admin](https://jekyll.github.io/jekyll-admin/self-hosting)

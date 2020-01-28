@@ -1,10 +1,14 @@
 ---
+title: What is uniXerr!
 layout: post
-title:  "What is uniXerr!"
-date:   2020-01-02 18:15:00 +0300
-image:  '/assets/img/unixerr__.png'
-tags:   [education, digital-companion, unixerr]
+date: '2020-01-02 18:15:00 +0300'
+image: "/assets/img/unixerr__.png"
+tags:
+- education
+- digital-companion
+- uniXerr
 ---
+
 A University Without Error! Sounds good, huh?
 
 Imagine yourself in a situation like being in the middle of bunch of decisions;
