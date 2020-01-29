@@ -17,3 +17,5 @@ but let uniXerr does for you and if you want to be a part of those things just k
 
 > `everything can be everything and 
 everything can turn into an everything else.`
+
+For more informations read [this](https://blog.unixerr.com/2020-01-03-how-uniXerr-works/) post.
