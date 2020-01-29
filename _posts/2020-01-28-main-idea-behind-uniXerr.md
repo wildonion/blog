@@ -46,7 +46,3 @@ When I got home I [created its slide](https://docs.google.com/presentation/d/1GK
 
 Hope you answered most of your questions and enjoyed this post.
 Feel free to contact me through any of the links below.
-
-
-# :
-[](http://)
