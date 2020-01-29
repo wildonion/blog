@@ -13,7 +13,7 @@ tags:
 ---
 
 Hi everyone, today I'm going to talk to you about the idea behind `uniXerr`.
-I also wrote a brief post just for the purpose of knowing the name of the project that you can read from [here](https://blog.unixerr.com/2020/01/02/what-is-uniXerr/).
+I also wrote a brief post just for the purpose of knowing the name of the project that you can read from [here](https://blog.unixerr.com/2020/01/02/what-is-uniXerr/). 
 
 # Spend from your credit!
 It was about three months ago when I was walking home from university, I always found something to get my mind involved and this time I was thinking about why some things are not what I want them to be.
@@ -36,13 +36,17 @@ But there is good news and bad news, the bad news is for those I mentioned in th
 
 Don't you find it interesting that you can get exactly what you deserve?!
 To me, that is very cool because I think no one can object to what they have achieved through their efforts.
-I am very eager to implement this project as soon as possible and I will do my best to make this project the best it can be.
+I am very eager to implement this project as soon as possible and I will do my best to make this project the best it can be as a digital companion.
 
 # Conclusion
-When I got home I wrote it like all the other ideas and I thought about the results it could have and I want to share two of the most important ones to you that I hope to get as the main ones:
+When I got home I [created its slide](https://docs.google.com/presentation/d/1GK3pkiIfIzD472j6eXYRZ59xo9yky3sYgX-_MpS9TX8/edit#slide=id.gc6f919934_0_0) like all the other ideas and I thought about the results and purposes it could have, so I want to share two of the most important ones to you that I hope to get as the main ones:
 
 * Study and charging credit at the same time.
 * University progress in scientific and research fields.
 
 Hope you answered most of your questions and enjoyed this post.
 Feel free to contact me through any of the links below.
+
+
+# :
+[](http://)
