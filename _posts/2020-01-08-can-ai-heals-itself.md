@@ -8,7 +8,7 @@ tags:
 - neural-networks
 - keras
 - tensorflow
-image: http://localhost:4000/assets/img/ahi.png
+image: "/assets/img/ahi.png"
 ---
 
 Can we write code for AI to fix and bring itself back to where it was before by writing some of its own code? 

@@ -2,7 +2,7 @@
 title: A venturesome journey into the deep learning
 layout: post
 date: '2020-01-28 14:37:32'
-image: http://localhost:4000/assets/img/road_trees_autumn_134996_720x1280.jpg
+image: "/assets/img/road_trees_autumn_134996_720x1280.jpg"
 tags:
 - artificial-intelligence
 - deep-learning
