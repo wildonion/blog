@@ -35,7 +35,7 @@ Well, the word credit refers to the amount of coins that the `uniXerr` protocol 
 There is a piece of bad news for those I mentioned in the previous section, no one can get a higher score unless their effort is high because everyone gets paid based on their merit and effort, the more the effort, the more coins that are mined.
 
 Don't you find it interesting that you can get exactly what you deserve?!
-To me, that is very cool because I think no one can object to what they have achieved through their efforts.
+To me, that is very cool because I think no one can complain to what they have achieved through their efforts.
 I am very eager to implement this project as soon as possible and I will do my best to make this project the best it can be as a digital companion.
 
 # Conclusion
@@ -44,5 +44,5 @@ When I got home I [created its slide](https://docs.google.com/presentation/d/1GK
 * Study and gaining credit at the same time.
 * University progress in scientific and research fields.
 
-Hope you answered most of your questions and enjoyed this post.
-Feel free to contact me through any of the links below.
+Hope you have been answered most of your questions and enjoyed this post.
+Feel free to contact me through any of the links below:

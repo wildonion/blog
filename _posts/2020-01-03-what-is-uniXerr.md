@@ -12,7 +12,7 @@ tags:
 A University Without Error! Sounds good, huh?
 
 Imagine yourself in a situation like being in the middle of bunch of decisions;
-It Rarly happens that make those things happen that you like them,
+It rarely happens that make those things happen that you like them,
 but let uniXerr does for you and if you want to be a part of those things just know that : 
 
 > `everything can be everything and 
