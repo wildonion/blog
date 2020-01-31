@@ -32,7 +32,7 @@ to understand the core of this idea, I suggest you read my post on [deep learnin
 # Why did I use the word credit?
 Well, the word credit refers to the amount of coins that the `uniXerr` protocol which is on top of AI gives you weekly based on one of your twenty positions, and your position can vary depending on the value of some predefined constant attributes (features) for this protocol.
 
-There is good news and bad news, the bad news is for those I mentioned in the previous section, no one can get a higher score unless their effort is high because, the good one finally :), everyone gets paid based on their merit and effort, the more the effort, the more coins that are mined.
+There is a bad news for those I mentioned in the previous section, no one can get a higher score unless their effort is high because, everyone gets paid based on their merit and effort, the more the effort, the more coins that are mined.
 
 Don't you find it interesting that you can get exactly what you deserve?!
 To me, that is very cool because I think no one can object to what they have achieved through their efforts.
