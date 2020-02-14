@@ -4,4 +4,4 @@
 
 ##### Build static pages :  _```sudo JEKYLL_ENV=production bundle exec jekyll build --trace```_
 
-##### Move _`_site`_ folder to /var/www/
+##### Run _```update.sh```_ script to update new changes to the blog repo and whole site
