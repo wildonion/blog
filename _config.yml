@@ -1,8 +1,8 @@
 title: uniXerr blog
 logo:  # you can add own logo like : unixerr.png
 description: University Without Error, uniXerr, Artificial Intelligence, CS, computer science, deep learning, neural network
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://unixerr.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
