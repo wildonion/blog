@@ -13,7 +13,7 @@ tags:
 ---
 
 Hi everyone, today I'm going to talk to you about the idea behind `uniXerr`.
-I also wrote a brief post just for the purpose of knowing the name of the project that you can read from [here](https://blog.unixerr.com/2020/01/02/what-is-uniXerr/). 
+I also wrote a brief post just for the purpose of knowing the name of the project that you can read from [here](https://unixerr.com/blog/2020/01/02/what-is-uniXerr/). 
 
 # Spend from your credit!
 It was about three months ago when I was walking home from university, I always found something to get my mind involved and this time I was thinking about why some things are not what I want them to be.
@@ -23,7 +23,7 @@ But I'm so glad now that I'm not them, anyway as I was struggling with myself wh
 Here is the idea, It would be great if anyone could earn as much credit as they did for their hard work.
 And use that credit to get the score. Yes, I know thousands of questions are going to blow your mind to find their answers.
 First of all, let me say that in the next few minutes you will understand why I use the word credit and second of all 
-to understand the core of this idea, I suggest you read my post on [deep learning and artificial intelligence](https://blog.unixerr.com/2020/01/28/a-venturesome-journey-into-the-deep-learning/).
+to understand the core of this idea, I suggest you read my post on [deep learning and artificial intelligence](https://unixerr.com/blog/2020/01/28/a-venturesome-journey-into-the-deep-learning/).
 
 
 > But for now, I assume you all know about artificial intelligence.
